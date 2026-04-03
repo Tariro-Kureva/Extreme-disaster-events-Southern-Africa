@@ -66,6 +66,6 @@ Southern Africa has experienced an increase in extreme weather events such as dr
 ## Internship Context
 This project was completed as part of the International Sibling Society (ISS) Internship Program — Data Analytics Track. The analysis focuses on SDG 13: Climate Action, with a regional focus on Southern Africa.
 
----
+| [Live Dashboard](https://app.powerbi.com/groups/me/reports/70b9d5b2-2361-4baf-bb94-3b6e050a8724/445fe70a8c62eeeba558?experience=power-bi) | Interactive Power BI report |
 
 *Last updated: April 2026*
